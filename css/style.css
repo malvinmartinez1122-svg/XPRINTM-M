@@ -15,7 +15,6 @@ body{
 width: 100%;
 background-image: url(../img/imprentas-diseno-grafico.jpeg);
 background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/imprentas-diseno-grafico.jpeg);
-background-attachment: fixed;
 background-size: cover;
 
 
@@ -908,3 +907,4 @@ footer {
     font-size: 16px;
   }
 }
+
