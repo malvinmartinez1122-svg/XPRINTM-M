@@ -261,16 +261,6 @@ align-items: center;
 
 }
 
-.cajon{
-
-width: 200px;
-height: 200px;
-background-color: blue;
-border-radius: 50%;
-
-
-}
-
 #impresora{
 
 width: 200px;
@@ -391,16 +381,7 @@ align-items: center;
 
 }
 
-#cajin{
 
-width: 400px;
-height: 400px;
-background-color: blue;
-position: absolute;
-left: 900px;
-border-radius: 30px;
-
-}
 
 #titular{
 
@@ -576,25 +557,14 @@ align-items: center;
 
 #conclusion{
 
-width: 105%;
+width: 800px;
 height: 400px;
 font-size: 30px;
 text-align: justify;
 position: relative;
 top: 50px;
-left: -260px;
+left: -30px;
 font-family: 'g Gion', sans-serif;
-
-}
-
-#linea{
-
-width: 1000px;
-height: 5px;
-background-color:black;
-position: relative;
-top: 100px;
-left: 400px;
 
 }
 
@@ -674,6 +644,7 @@ footer {
   font-size: 20px;
   font-family: 'g Gion', sans-serif;
 }
+
 
 @media (max-width: 768px) {
 
