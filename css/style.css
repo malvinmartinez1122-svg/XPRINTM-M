@@ -866,8 +866,8 @@ footer {
 
   font-size: 35px;
   position: absolute;
-  top: 2090px;
-  left: 55px;
+  top: 1640px;
+  left: 80px;
 
   }
 
@@ -880,12 +880,12 @@ footer {
    
   }
 
-  #cajin{
+ #cajin{
    width: 150px;
    height: 150px;
    position: relative;
    top: -90px;
-   left: 105px;
+   left: 120px;
 
   }
 
@@ -907,4 +907,5 @@ footer {
     font-size: 16px;
   }
 }
+
 
