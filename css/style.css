@@ -261,10 +261,12 @@ align-items: center;
 
 }
 
-#impresora{
+.impresora{
 
 width: 200px;
 height: 200px;
+position: relative;
+left: 60px;
 border-radius: 50%;
 transition: 0.3s;
 
@@ -277,97 +279,19 @@ transition: 0.3s;
 
 }
 
-#impre{
-
-font-size: 35px;
-position: relative;
-top: 20px;
-left: 35px;
-color:black;
-font-family: 'g Gion', sans-serif;
-
-}
-
-#poloche{
-
-font-size: 32px;
-position: relative;
-top: 20px;
-left: 55px;
-color:black;
-font-family: 'g Gion', sans-serif;
-
-}
-
-#post{
-
-font-size: 32px;
-position: relative;
-top: 20px;
-left: 65px;
-color: black;
-font-family: 'g Gion', sans-serif;
-
-}
-
-#impresi{
+.impre{
 
 font-size: 30px;
 position: relative;
-top: 20px;
-left: 45px;
-color: black;
+top: 125px;
+left: -110px;
+color:black;
 font-family: 'g Gion', sans-serif;
 
 }
 
-#polo{
 
-width: 200px;
-height: 200px;
-border-radius: 50%;
-transition: 0.3s;   
 
-}
-
-#polo:hover{
-
-transform: scale(1.2);
-transition: 0.3s;
-
-}
-
-#poster{
-
-width: 200px;
-height: 200px;
-border-radius: 50%;
-transition: 0.3s;
-
-}
-
-#poster:hover{
-
-transform: scale(1.2);
-transition: 0.3s;
-
-}
-
-#papel{
-
-width: 200px;
-height: 200px;
-border-radius: 50%;
-transition: 0.3s;
-
-}
-
-#papel:hover{
-
-transform: scale(1.2);
-transition: 0.3s;
-
-}
 
 section{
 
@@ -774,7 +698,14 @@ footer {
   }
 
  
+.impre{
 
+  position: relative;
+  top: -140px;
+
+
+
+}
 
 
   #titular{
